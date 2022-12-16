@@ -39,7 +39,7 @@ params:
   
   # css
   css:
-    secondary_color: "#100e0d" # "#F39200" "#4FC1EA" "#00efb7" (Controls Buttons, Accents)
+    secondary_color: "#979797" # "#F39200" "#4FC1EA" "#00efb7" "#100e0d" (Controls Buttons, Accents)
     mutedgrey_color: "#263846" # "#999" # Contols writing 
     greydark_color: "#6c6d71" # "#4a4a4a" Controls Headers
     bluegrey_color: "#202020" # "#444F60" #2c3e50 (Controls Headers & Footer Background)
