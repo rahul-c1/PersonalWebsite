@@ -157,11 +157,11 @@ params:
     subtitle: Real results from our valued clients.
     clients:
     - name: Irma
-      quote: We were able to recover $5.3M by optimizing our supply and demand planning system using Forecasting Science. They delivered a solution in 90 days. This project was a slam dunk.
-      job: Senior VP, Exxon Mobil
+      quote: We were able to save $100K by optimizing our supply and demand planning system using Forecasting Science. They delivered a solution in 90 days. This project was a slam dunk.
+      job: Senior VP, Builder1
       img: 1.png
     - name: John
-      quote: We literally can't live without our new demand planning system built by Forecasting Science, LLC. These guys delivered a $3.4M improvement to operations in under 6 months.
+      quote: We literally can't live without our new demand planning system built by Analytics Center. These guys delivered a $3.4M improvement to operations in under 6 months.
       job: CEO, Tech Company
       img: 2.png
     - name: Gary
