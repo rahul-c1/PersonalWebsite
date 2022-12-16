@@ -29,11 +29,11 @@ params:
     link: /
     brandName: Analytics Centre
     # Default width/height. Uncomment if you need to change
-    width: 40
-    height: 40
+    width: 50
+    height: 50
   
   # Web Fonts Available Here: https://fonts.google.com/
-  googleFontImport: 'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&display=swap'
+  googleFontImport: 'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&family=Work+Sans:ital,wght@1,500&display=swap'
   header_font: "Open Sans"
   body_font: "Arial"
   
@@ -90,10 +90,10 @@ params:
   
   section1_attention:
     # Main hero title
-    title: "Save $20M with better forecasting in 120 days"
+    title: "Homebuilders save $50K/deal in 30 days by targeting the right customers at the right time"
     titleTextColor: "white"
     # Hero subtitle (optional)
-    subtitle: "We save our clients on average $2M per year through improved forecasting."
+    subtitle: "We save our clients money and time to serve the right customers using advanced analytics."
     heroBackgroundColor: "#000000c7"
     
     # Button text
@@ -114,7 +114,7 @@ params:
     - gutwork.svg
  
   section2_transformation:
-    title: "How forecast science works." 
+    title: "How analytics consulting works." 
     subtitle: "Reduce costs from forecasting errors in 4 simple steps"
     # icons are located in static > images > illustrations > icons
     tile_size: is-one-quarter
