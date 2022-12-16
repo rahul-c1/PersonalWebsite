@@ -33,7 +33,7 @@ params:
     height: 40
   
   # Web Fonts Available Here: https://fonts.google.com/
-  googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
+  googleFontImport: 'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap'
   header_font: "Open Sans"
   body_font: "Arial"
   
