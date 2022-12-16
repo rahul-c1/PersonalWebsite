@@ -169,7 +169,7 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: business-science-logo.png
+    logo: BusinessLogo.png
     navbarLogoWidth: "100px"
     navbarLogoHeight: "100px"
     # Social Media Title
