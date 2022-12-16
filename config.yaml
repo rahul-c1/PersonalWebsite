@@ -64,7 +64,9 @@ params:
   #     url: /
   #   - title: Dropdown item
   #     url: /
-  - title: Consulting Services
+  - title: Home
+    url: /
+  - title: Analytic Consulting
     url: /consulting
   - title: Testimonials
     url: /testimonials
