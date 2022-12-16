@@ -25,7 +25,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/business-science-logo.png
+    image: logos/BusinessLogo.png
     link: /
     brandName: Analytics Centre
     # Default width/height. Uncomment if you need to change
