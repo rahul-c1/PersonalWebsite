@@ -90,7 +90,7 @@ params:
   
   section1_attention:
     # Main hero title
-    title: "Homebuilders save $50K/deal in 30 days by targeting the right customers at the right time"
+    title: "Homebuilders save $50K/deal in 60 days by targeting the right customers at the right time"
     titleTextColor: "white"
     # Hero subtitle (optional)
     subtitle: "We save our clients money and time to serve the right customers using advanced analytics."
@@ -144,12 +144,12 @@ params:
     tile_size: is-one-third
     tile_height: "200px"
     tiles:
-    - title: "Get results in 120 days"
+    - title: "Get results in 60 days"
       subtitle: "Go from losing money to saving money without hiring multiple consultants or handling time-consuming project management yourself."
     - title: "Safe and Secure"
       subtitle: "You don't need to upload your data to unsecure cloud networks. The forecasting application can be deployed on your own server network."
     - title: "Our ROI Guarantee"
-      subtitle: "On average we save our clients $2M per year. If we can't at least save you what you pay us, we'll give you your money back."
+      subtitle: "On average we save our clients $100K per year. If we can't at least save you what you pay us, we'll give you your money back."
     
     
   section4_desire:
