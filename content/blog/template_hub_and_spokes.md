@@ -1,5 +1,5 @@
 ---
-author: Matt Dancho
+author: Guest Author - Matt Dancho
 date: "2022-11-29T08:45:27+06:00"
 image: images/illustrations/mockups/hub_and_spokes.jpg
 include_cta: true
