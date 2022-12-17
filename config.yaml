@@ -16,7 +16,7 @@ markup:
 
 params:
   # Put your formspree URL in like this:  https://formspree.io/f/...
-  formspreeURL: "https://formspree.io/f/mdovnklw"
+  formspreeURL: "https://formspree.io/f/xayzwnkd"
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
@@ -43,7 +43,7 @@ params:
     mutedgrey_color: "#999" # "#999" # Contols writing 
     greydark_color: "#6c6d71" # "#4a4a4a" Controls Headers
     bluegrey_color: "#202020" # "#444F60" #2c3e50 (Controls Headers & Footer Background)
-    navbar_color: "#081D4A" # "#FFF"
+    navbar_color: "#202020" # "#FFF"
     navbar_text_color: "#ffffff" # #999  
   # css:
   #   secondary_color: "#979797" # "#F39200" "#4FC1EA" "#00efb7" "#100e0d" (Controls Buttons, Accents)
