@@ -34,8 +34,8 @@ params:
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&family=Work+Sans:ital,wght@1,500&display=swap'
-  header_font: "Open Sans"
-  body_font: "Arial"
+  header_font: "Noto Sans"
+  body_font: "Work Sans"
   
   # css
   css:
