@@ -10,7 +10,7 @@ type: testimonials
 # Benefit 1: Reduce effects of supply-demand interuptions
 
 <figure class="image">
-<img class="" src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" style="width:600px;">
+<img class="" src="/images/illustrations/happy-clients.jpg" alt="Placeholder image" style="width:600px;">
 </figure>
 
 
