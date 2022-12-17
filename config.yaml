@@ -1,4 +1,4 @@
-baseURL: http://analyticscentre.com/
+baseURL: https://analyticscentre.com/
 languageCode: en-us
 title: Analytics Centre
 theme: "hugo-fresh-data-science"
