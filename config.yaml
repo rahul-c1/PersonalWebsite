@@ -25,7 +25,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/BusinessLogo.png
+    image: logos/BusinessLogomodern.png
     link: /
     brandName: Analytics Centre
     # Default width/height. Uncomment if you need to change
@@ -178,7 +178,7 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: BusinessLogo.png
+    logo: BusinessLogomodern.png
     navbarLogoWidth: "100px"
     navbarLogoHeight: "100px"
     # Social Media Title
