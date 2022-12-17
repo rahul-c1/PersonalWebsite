@@ -40,7 +40,7 @@ params:
   # css
   css:
     secondary_color: "#979797" # "#F39200" "#4FC1EA" "#00efb7" "#100e0d" (Controls Buttons, Accents)
-    mutedgrey_color: "#ffffff" # "#999" # Contols writing 
+    mutedgrey_color: "#999" # "#999" # Contols writing 
     greydark_color: "#6c6d71" # "#4a4a4a" Controls Headers
     bluegrey_color: "#202020" # "#444F60" #2c3e50 (Controls Headers & Footer Background)
     navbar_color: "#081D4A" # "#FFF"
@@ -81,7 +81,7 @@ params:
   applynow:
     title: Claim your free analytics consultation right now.
     subtitle: Let's have a conversation today 
-    googleFormEmbed: "https://docs.google.com/forms/d/e/1FAIpQLSeaux5ms6OjbAzMM1C6tyYBA9nqveniqk_WEdmQLK3uOHSQ9Q/viewform?embedded=true"
+    googleFormEmbed: "https://forms.office.com/r/6KnG5J0ata"
   
   contact:
     title: Contact Us
