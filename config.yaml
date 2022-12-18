@@ -34,7 +34,7 @@ params:
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap'#'https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&family=Work+Sans:ital,wght@1,500&display=swap'
-  header_font: "Noto Sans"
+  header_font: "Roboto"
   body_font: "Work Sans"
   
   # css
@@ -103,7 +103,7 @@ params:
     # Hero image (from static/images/___)
     # Can get these images from flaticon.com
     image: illustrations/mockups/nostradamus_app.jpg
-    backgroundImage: illustrations/company.jpg
+    backgroundImage: illustrations/pexelspencalc #illustrations/company.jpg
     clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
