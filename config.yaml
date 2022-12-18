@@ -103,7 +103,7 @@ params:
     # Hero image (from static/images/___)
     # Can get these images from flaticon.com
     image: illustrations/mockups/nostradamus_app.jpg
-    backgroundImage: illustrations/pexelspencalc #illustrations/company.jpg
+    backgroundImage: illustrations/pexelspencalc.jpg #illustrations/company.jpg
     clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
