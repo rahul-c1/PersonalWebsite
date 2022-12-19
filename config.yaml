@@ -197,7 +197,7 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Consulting"
+        title: "Advisory"
         links:
         - text: Why choose Analytics Centre?
           link: /consulting
