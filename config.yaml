@@ -186,13 +186,13 @@ params:
     # Social media links (GitHub, Twitter, etc.). All are optional.
     # Icons are from Font Awesome
     socialmedia:
-    - link: https://www.linkedin.com/
-      icon: linkedin
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://twitter.com/lucperkins
+#    - link: https://www.linkedin.com/
+#      icon: linkedin
+#   - link: https://facebook.com/#
+#      icon: facebook
+    - link: https://twitter.com/analyticscntr
       icon: twitter
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://github.com/rahul-c1
       icon: github
     bulmalogo: false
     quicklinks:
