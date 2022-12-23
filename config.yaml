@@ -107,7 +107,7 @@ params:
     clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - https://www.fuelworks.in/static/media/logo.362cdefd645021174330.png ( {{< relref "fuelworks.in" >}})
+    -  fuelworks.png ( {{< relref "fuelworks.in" >}})
    # - tribe.svg
    # - kromo.svg
    # - infinite.svg
