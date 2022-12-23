@@ -108,10 +108,10 @@ params:
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek.svg
-    - tribe.svg
-    - kromo.svg
-    - infinite.svg
-    - gutwork.svg
+   # - tribe.svg
+   # - kromo.svg
+   # - infinite.svg
+   # - gutwork.svg
  
   section2_transformation:
     title: "How analytics consulting works." 
