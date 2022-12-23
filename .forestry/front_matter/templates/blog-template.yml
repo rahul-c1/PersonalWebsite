@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: include_cta
   label: include_cta
+pages:
+- content/blog/boost-your-profits-and-minimize-losses-with-simple-analytics-and-leverage-tidyquant.md
