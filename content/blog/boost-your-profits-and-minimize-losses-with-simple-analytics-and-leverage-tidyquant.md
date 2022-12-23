@@ -1,7 +1,6 @@
 +++
 author = "Rahul Sharma"
 date = 2022-12-23T17:00:00Z
-draft = true
 image = "/uploads/fkhdhsfwiaesh-u.jpeg"
 include_cta = false
 title = "Boost Your Profits and Minimize Losses with simple analytics and leverage Tidyquant"
