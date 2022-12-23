@@ -104,10 +104,10 @@ params:
     # Can get these images from flaticon.com
     image: illustrations/mockups/nostradamus_app.jpg
     backgroundImage: illustrations/pexelspencalc.jpg #illustrations/company.jpg
-    clientstext: "Some of the clients we've helped:"
+   # clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-    -  fuelworks.png
+  #  clientlogos:
+  #  - systek.svg
    # - tribe.svg
    # - kromo.svg
    # - infinite.svg
