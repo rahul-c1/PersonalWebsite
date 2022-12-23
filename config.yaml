@@ -104,10 +104,10 @@ params:
     # Can get these images from flaticon.com
     image: illustrations/mockups/nostradamus_app.jpg
     backgroundImage: illustrations/pexelspencalc.jpg #illustrations/company.jpg
-   # clientstext: "Some of the clients we've helped:"
+    clientstext: "Some of the clients we've helped:"
     # Footer logos (from static/images/logos/clients/___.svg)
-  #  clientlogos:
-  #  - systek.svg
+    clientlogos:
+    - https://www.fuelworks.in/static/media/logo.362cdefd645021174330.png ( {{< relref "fuelworks.in" >}})
    # - tribe.svg
    # - kromo.svg
    # - infinite.svg
@@ -135,7 +135,7 @@ params:
     - title: "Step 4"
       subtitle: Monitor Savings
       icon: monitoring.svg
-      text: We help your team measure savings versus baselines. On average our clients save $2M per year.
+      text: We help your team measure savings versus baselines. On average our clients save $100K per year.
   
   section3_interest:
     title: Get results faster
@@ -158,7 +158,7 @@ params:
     clients:
     - name: Irma
       quote: We were able to save $100K by optimizing our supply and demand planning system using Forecasting Science. They delivered a solution in 90 days. This project was a slam dunk.
-      job: Senior VP, Builder1
+      job: Senior VP, Builder
       img: 1.png
     - name: John
       quote: We literally can't live without our new demand planning system built by Analytics Center. These guys delivered a $3.4M improvement to operations in under 6 months.
