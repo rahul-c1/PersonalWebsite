@@ -139,8 +139,8 @@ params:
   
   section3_interest:
     title: Get results faster
-    subtitle: With your custom forecasting application
-    image: illustrations/mockups/nostradamus_app.jpg
+    subtitle: With your custom and flexible application
+    image: illustrations/mockups/leadscoring.png
     tile_size: is-one-third
     tile_height: "200px"
     tiles:
