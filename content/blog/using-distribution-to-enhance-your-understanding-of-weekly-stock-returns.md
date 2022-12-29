@@ -1,7 +1,6 @@
 +++
 author = "Rahul Sharma"
 date = 2022-12-28T17:00:00Z
-draft = true
 image = "/uploads/tsla.jfif"
 include_cta = false
 title = "Using Distribution to Enhance Your Understanding of Weekly Stock Returns"
