@@ -68,8 +68,8 @@ params:
     url: /
   - title: Advisory
     url: /consulting
-  - title: Testimonials
-    url: /testimonials
+  #- title: Testimonials
+  #  url: /testimonials
   - title: Blog
     url: /blog
   - title: Contact Us
@@ -201,8 +201,8 @@ params:
         links:
         - text: Why choose Analytics Centre?
           link: /consulting
-        - text: Testimonials
-          link: /testimonials
+        #- text: Testimonials
+        #  link: /testimonials
         - text: Apply to work with us
           link: /applynow
       column2:
