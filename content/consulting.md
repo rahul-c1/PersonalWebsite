@@ -13,7 +13,7 @@ include_cta: true
 
 </figure>
 
-#### Our data and analytics solutions are designed to help businesses generate more leads and convert them into customers. 
+#### Our data and analytics solutions are designed to help businesses to focus on solving key business problems by leveraging latest tools and technology. 
 
 **Here are some of the benefits you can expect when you work with us:**
 
@@ -22,6 +22,8 @@ include_cta: true
 2. __Effective segmentation:__ Our analytics can help you segment your leads into different groups, so you can tailor your marketing efforts and messaging to each group. This leads to more effective lead generation.
 
 3. __Measure performance:__ We track the performance of your lead generation efforts, so you can make data-driven decisions on how to optimize them.
+
+4. __Improved forecasting:__ We deliver solutions to improve the accuracy of demand/sales forecasting while engaging domain experts and allowing them to conduct scenario analysis by making it easier to tweak the input to forecasting.
 
 ***
 
