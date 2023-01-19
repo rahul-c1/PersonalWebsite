@@ -5,7 +5,7 @@ type: testimonials
 include_cta: true
 ---
 
-## Lead Generation Through Data and Analytics
+## Leverage your Data
 
 <figure class="image">
 
@@ -13,7 +13,7 @@ include_cta: true
 
 </figure>
 
-#### Our data and analytics solutions are designed to help businesses to focus on solving key business problems by leveraging latest tools and technology. 
+#### Our advanced analytics solutions are designed to help businesses to focus on solving key business problems by leveraging latest tools and technology. 
 
 **Here are some of the benefits you can expect when you work with us:**
 
