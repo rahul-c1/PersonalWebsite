@@ -1,11 +1,12 @@
 ---
 author: Guest Author - Matt Dancho
-date: "2022-11-29T08:45:27+06:00"
+date: 2022-11-29T08:45:27+06:00
 image: images/illustrations/mockups/hub_and_spokes.jpg
 include_cta: true
 title: Template for hub and spokes blog model
----
+draft: true
 
+---
 # The Hub And Spokes Model
 
 The concept is to have one really strong article that gives a TON of value on many different topics related to a key pain point. __This is the hub.__
@@ -43,5 +44,3 @@ Listen, your company is using outdated methods and it's driving up costs. How do
 Title: How to upskill your data science team with forecasting skills
 
 Look, I know your company is having a tough time forecasting. In fact, [lack of skills is the 3rd reason of the Top 14 that causes company's forecasts to suffer and costs to skyrocket.](/blog/template_hub_and_spokes) (<-- This is the link you'd add, and you'd do this several times in the spoke article)
-
-
