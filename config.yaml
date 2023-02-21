@@ -16,7 +16,7 @@ markup:
 
 params:
   # Put your formspree URL in like this:  https://formspree.io/f/...
-  formspreeURL: "https://formspree.io/f/xayzwnkd"
+  #formspreeURL: "https://formspree.io/f/xayzwnkd"
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
